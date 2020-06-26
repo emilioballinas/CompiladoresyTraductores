@@ -1,0 +1,12 @@
+let
+	integer a,b,c,d,z.
+in
+	read a;
+	read b;
+	read c;
+	read d;
+	z := (z+a+b+c+d)/4;
+
+	write z;
+
+end
