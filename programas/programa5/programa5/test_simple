@@ -1,0 +1,16 @@
+let
+	integer a,b,n,c,f,i.
+in
+	read n;
+
+	i := 1;
+	f := 1;
+
+	while i < n+1 do f := f*i; i := i+1; end;
+	skip;
+
+
+
+	write f;
+
+end

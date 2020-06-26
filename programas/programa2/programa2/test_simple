@@ -1,0 +1,25 @@
+let
+	integer n,x.
+in
+	x := 1*1;
+	write x;
+	x := 2*2;
+	write x;
+	x := 3*3;
+	write x;
+	x := 4*4;
+	write x;
+	x := 5*5;
+	write x;
+	x := 6*6;
+	write x;
+	x := 7*7;
+	write x;
+	x := 8*8;
+	write x;
+	x := 9*9;
+	write x;
+	x := 10*10;
+	write x;
+
+end

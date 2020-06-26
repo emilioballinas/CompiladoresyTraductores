@@ -1,0 +1,12 @@
+let
+	integer a,b,c,p.
+in
+	read a;
+	read b;
+	p := (1/2);
+	c :=(((a*a)+(b*b))^p);
+
+	write c;
+
+end
+
